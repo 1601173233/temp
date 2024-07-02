@@ -1,0 +1,11 @@
+server:
+  port: 13400
+spring:
+  application:
+    name: toolWeb
+  profiles:
+  #设置请求体大小
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
