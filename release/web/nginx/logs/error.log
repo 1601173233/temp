@@ -1,0 +1,53 @@
+2024/07/02 21:37:40 [error] 10696#27680: *2 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/tool/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /tool/api/dict/getDictList HTTP/1.1", host: "localhost", referrer: "http://localhost/excel.html"
+2024/07/02 21:47:45 [notice] 28508#23352: signal process started
+2024/07/02 21:47:58 [notice] 10588#28108: signal process started
+2024/07/02 21:49:40 [notice] 21624#12424: signal process started
+2024/07/02 21:51:10 [notice] 22324#17112: signal process started
+2024/07/02 21:51:18 [notice] 10656#21560: signal process started
+2024/07/02 21:52:24 [notice] 22244#19804: signal process started
+2024/07/02 21:53:54 [notice] 14900#27712: signal process started
+2024/07/02 21:54:03 [notice] 14192#4712: signal process started
+2024/07/02 21:55:48 [notice] 29352#25536: signal process started
+2024/07/02 21:55:48 [error] 29352#25536: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 21:56:39 [notice] 12608#23248: signal process started
+2024/07/02 21:56:39 [error] 12608#23248: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 21:57:23 [notice] 7860#5320: signal process started
+2024/07/02 21:57:23 [error] 7860#5320: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 21:57:42 [notice] 24376#20156: signal process started
+2024/07/02 21:57:42 [error] 24376#20156: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 21:57:58 [notice] 15288#23244: signal process started
+2024/07/02 21:57:58 [error] 15288#23244: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 21:58:12 [notice] 832#26236: signal process started
+2024/07/02 21:58:12 [error] 832#26236: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 21:59:01 [notice] 5548#8416: signal process started
+2024/07/02 21:59:44 [notice] 2824#14480: signal process started
+2024/07/02 22:00:37 [notice] 20700#4240: signal process started
+2024/07/02 22:02:51 [notice] 10128#21428: signal process started
+2024/07/02 22:03:00 [notice] 22508#27836: signal process started
+2024/07/02 22:03:30 [notice] 20544#7880: signal process started
+2024/07/02 22:03:39 [notice] 6104#19152: signal process started
+2024/07/02 22:04:56 [notice] 15696#18116: signal process started
+2024/07/02 22:05:50 [notice] 21696#13604: signal process started
+2024/07/02 22:05:52 [notice] 14616#8168: signal process started
+2024/07/02 22:07:20 [notice] 11896#19496: signal process started
+2024/07/02 22:08:59 [notice] 10672#3332: signal process started
+2024/07/02 22:09:14 [notice] 17836#656: signal process started
+2024/07/02 22:09:51 [error] 24876#11884: *105 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:10:25 [notice] 24636#10640: signal process started
+2024/07/02 22:11:46 [notice] 13604#19316: signal process started
+2024/07/02 22:11:54 [error] 24876#11884: *127 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:11:56 [error] 24876#11884: *127 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:02 [notice] 11940#14928: signal process started
+2024/07/02 22:12:04 [error] 24876#11884: *130 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:06 [error] 24876#11884: *130 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:21 [notice] 25596#10636: signal process started
+2024/07/02 22:12:21 [error] 25596#10636: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 22:12:23 [error] 24876#11884: *133 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:24 [error] 24876#11884: *133 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:30 [error] 24876#11884: *136 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:41 [error] 24876#11884: *139 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:55 [error] 24876#11884: *142 CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/html/api/dict/getDictList" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /api/dict/getDictList HTTP/1.1", host: "localhost"
+2024/07/02 22:12:59 [notice] 16140#27072: signal process started
+2024/07/02 22:12:59 [error] 16140#27072: CreateFile() "C:\Users\yy\Desktop\新建文件夹\release\web\nginx-1.27.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/07/02 22:13:30 [notice] 7912#16644: signal process started
+2024/07/02 22:16:42 [notice] 19836#19940: signal process started
