@@ -15,3 +15,11 @@ release：可运行的demo
 test：测试用例数据
 ```
 
+## 示例
+### 导入文件示例
+![image](https://github.com/1601173233/temp/tree/main/doc/导入文件示例.png)
+### 选择导出的sheet范围
+![image](https://github.com/1601173233/temp/tree/main/doc/选择导出的sheet范围.png)
+### 导出选项
+![image](https://github.com/1601173233/temp/tree/main/doc/导出选项.png)
+
